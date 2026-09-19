@@ -34,5 +34,18 @@
     "videos": [],
     "fecha": "2026-09-15T00:15:01.557671+00:00",
     "agregado_por": "S"
+  },
+  {
+    "id": "producto_1789820485",
+    "nombre": "Nike Gato Verde Menta",
+    "precio": "100000",
+    "descripcion": "",
+    "tallas": "36 - 42",
+    "categoria": "deportes",
+    "imagen": "https://i.ibb.co/bjTnzkWV/img-jpg.jpg",
+    "imagenes": [],
+    "videos": [],
+    "fecha": "2026-09-19T12:21:25.834842+00:00",
+    "agregado_por": "S"
   }
 ]
